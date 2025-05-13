@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='ChromeFetcher',
-    version='0.0.9',
+    version='2025.5.131906',
     author='Eugene Evstafev',
     author_email='chigwel@gmail.com',
     description='Automatically fetches and downloads the appropriate Chrome version based on OS and architecture.',
